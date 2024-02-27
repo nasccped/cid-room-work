@@ -1,0 +1,2 @@
+# ignoring JDK/JVM generated files
+*.class
