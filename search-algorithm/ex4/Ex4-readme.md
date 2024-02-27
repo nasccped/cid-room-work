@@ -9,3 +9,7 @@ inteiros Y e Z, retornar o número de
 chaves da lista que são maiores ou iguais
 a Y e o número de chaves da lista que são
 menores ou iguais a Z.**
+
+# Contexto
+
+**Foi entregue anteriormente no Ex3-readme.md**
