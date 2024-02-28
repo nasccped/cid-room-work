@@ -1,4 +1,4 @@
-# cid-rodrigues-unicid-exercises
+# cid-room-work
 
 Aqui vão estar dispostos os códigos que foram desenvolvidos durante/para
 as aulas do **`Profº Cid Rodrigues`**, por **Pedro B. do Nascimento**
