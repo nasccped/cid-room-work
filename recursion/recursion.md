@@ -10,19 +10,29 @@
 
 3. Escreva código recursivo para contar dígitos de um número
 
+    [**acesse o arquivo java clicando aqui**](./ex3/Ex3.java)
+
 4. Escreva código recursivo para somar números de 0 a n
 
+    [**acesse o arquivo java clicando aqui**](./ex4/Ex4.java)
+
 5. Escreva código recursivo para calcular MDC
+
+    [**acesse o arquivo java clicando aqui**](./ex5/Ex5.java)
 
 6. Escreva código recursivo para par e ímpar sabendo que zero é
 par, mas não é ímpar. Um número positivo é par se seu antecessor
 é ímpar. Um número positivo é ímpar se seu antecessor é par. Um
 número negativo é par (ou ímpar) se o seu oposto for par (ou ímpar).
 
+    [**acesse o arquivo java clicando aqui**](./ex6/Ex6.java)
+
 7. Usando as funções recursivas de fatorial e de exponenciação,
 escrever o código para resolver a somatória 1+x+x2/2!+x3/3!+...+xn/n!
 Veja que esta fórmula pode ser interpretada como x0/0! +
 x1/1!+x2/2!+x3/3!+...+xn/n! ou ⅀0..n xn/n!
+
+    [**acesse o arquivo java clicando aqui**](./ex7/Ex7.java)
 
 ## Orientações
 
